@@ -71,12 +71,25 @@ int main() {
 	std::cout << "TIPE DATA: DOUBLE" << std::endl;
 	std::cout << "=================" << std::endl << "\n";
 
-	double var_Double1;
+	double var_Double1_p, var_Double2_Jari, var_Double3_Hasil;
 
-	var_Double1 = 3.14;
+	var_Double1_p = 3.14;
 
+	std::cout << "Masukkan Jari-Jari Lingkaran : "; std::cin >> var_Double2_Jari;
 
+	var_Double3_Hasil = var_Double2_Jari * (var_Double2_Jari * var_Double1_p);
+	std::cout << "Luas Dari Lingkaran = " << var_Double3_Hasil << std::endl << "\n"; //output hasil perhitungan
 
-	
+	/*----------------------------------------------*/
+
+	//Tipe Data string (string)
+	std::cout << "=================" << std::endl;
+	std::cout << "TIPE DATA: STRING" << std::endl;
+	std::cout << "=================" << std::endl << "\n";
+
+	std::string var_Tulisan = "Halo. Nama Saya Rizky Khapidsyah, Siapakah nama kamu?";
+
+	std::cout << var_Tulisan << std::endl;
+
 	return 0;
 }
