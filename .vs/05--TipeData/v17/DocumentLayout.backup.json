@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rizky\\source\\repos\\CPP\\05--TipeData\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8AE15723-7793-422B-ABF7-9A7D0C5A6D4F}|05--TipeData.vcxproj|C:\\Users\\rizky\\source\\repos\\CPP\\05--TipeData\\TipeData.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8AE15723-7793-422B-ABF7-9A7D0C5A6D4F}|05--TipeData.vcxproj|solutionrelative:TipeData.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TipeData.cpp",
+              "DocumentMoniker": "C:\\Users\\rizky\\source\\repos\\CPP\\05--TipeData\\TipeData.cpp",
+              "RelativeDocumentMoniker": "TipeData.cpp",
+              "ToolTip": "C:\\Users\\rizky\\source\\repos\\CPP\\05--TipeData\\TipeData.cpp",
+              "RelativeToolTip": "TipeData.cpp",
+              "ViewState": "AgIAADUAAAAAAAAAAAAAwEcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-04T14:28:44.273Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

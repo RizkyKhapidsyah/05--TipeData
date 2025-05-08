@@ -31,3 +31,4 @@
 *.out
 *.app
 /.vs/05--TipeData/FileContentIndex
+*.opendb
