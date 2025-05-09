@@ -129,6 +129,11 @@
   <ItemGroup>
     <ClCompile Include="TipeData.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <Image Include="Hasil\Screenshot 2025-05-09 215119.png" />
+    <Image Include="Hasil\Screenshot 2025-05-09 215227.png" />
+    <Image Include="Hasil\Screenshot 2025-05-09 215248.png" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

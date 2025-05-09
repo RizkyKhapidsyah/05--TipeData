@@ -22,4 +22,15 @@
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
+  <ItemGroup>
+    <Image Include="Hasil\Screenshot 2025-05-09 215119.png">
+      <Filter>Hasil</Filter>
+    </Image>
+    <Image Include="Hasil\Screenshot 2025-05-09 215227.png">
+      <Filter>Hasil</Filter>
+    </Image>
+    <Image Include="Hasil\Screenshot 2025-05-09 215248.png">
+      <Filter>Hasil</Filter>
+    </Image>
+  </ItemGroup>
 </Project>

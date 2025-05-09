@@ -89,7 +89,50 @@ int main() {
 
 	std::string var_Tulisan = "Halo. Nama Saya Rizky Khapidsyah, Siapakah nama kamu?";
 
-	std::cout << var_Tulisan << std::endl;
+	std::cout << var_Tulisan << std::endl << "\n";
+
+	/*----------------------------------------------*/
+
+	//UKURAN MASING-MASING TIPE DATA
+	//Sumber: belajarcpp.com
+	std::cout << "==============================" << std::endl;
+	std::cout << "UKURAN MASING-MASING TIPE DATA" << std::endl;
+	std::cout << "==============================" << std::endl << "\n";
+
+	std::cout << "--> Integer " << std::endl;
+	std::cout << "Ukuran Memori dari int : " << sizeof(int) << std::endl;
+	std::cout << "Ukuran Memori dari signed int : " << sizeof(signed int) << std::endl;
+	std::cout << "Ukuran Memori dari signed int : " << sizeof(signed short int) << std::endl;
+	std::cout << "Ukuran Memori dari signed int : " << sizeof(signed long int) << std::endl;
+	std::cout << "Ukuran Memori dari signed int : " << sizeof(signed long long int) << std::endl;
+	std::cout << "Ukuran Memori dari unsigned int : " << sizeof(unsigned int) << std::endl;
+	std::cout << "Ukuran Memori dari unsigned int : " << sizeof(unsigned short int) << std::endl;
+	std::cout << "Ukuran Memori dari unsigned int : " << sizeof(unsigned long int) << std::endl;
+	std::cout << "Ukuran Memori dari unsigned int : " << sizeof(unsigned long long int) << std::endl;
+
+	std::cout << std::endl << "--> Floating Point " << std::endl;
+	std::cout << "Ukuran Memori dari float : " << sizeof(float) << std::endl;
+
+	std::cout << std::endl << "--> Double Floating Point " << std::endl;
+	std::cout << "Ukuran Memori dari Double : " << sizeof(double) << std::endl;
+	std::cout << "Ukuran Memori dari Long Double : " << sizeof(long double) << std::endl;
+
+	std::cout << std::endl << "--> Boolean " << std::endl;
+	std::cout << "Ukuran Memori dari Boolean : " << sizeof(bool) << std::endl;
+
+	std::cout << std::endl << "--> Character " << std::endl;
+	std::cout << "Ukuran Memori dari Char : " << sizeof(char) << std::endl;
+	std::cout << "Ukuran Memori dari Singned Char : " << sizeof(signed char) << std::endl;
+	std::cout << "Ukuran Memori dari Unsigned Char : " << sizeof(unsigned char) << std::endl;
+	std::cout << "Ukuran Memori dari char16_t : " << sizeof(char16_t) << std::endl;
+	std::cout << "Ukuran Memori dari char32_t : " << sizeof(char32_t) << std::endl;
+	std::cout << "Ukuran Memori dari wchar_t : " << sizeof(wchar_t) << std::endl;
+
+	std::cout << std::endl << "--> String " << std::endl;
+	std::cout << "Ukuran Memori dari String: " << sizeof(std::string) << std::endl;
+
+	std::cout << std::endl << "--> Pointer Null " << std::endl;
+	std::cout << "Ukuran Memori dari decltype(nullptr): " << sizeof(decltype(nullptr)) << std::endl;
 
 	return 0;
 }
